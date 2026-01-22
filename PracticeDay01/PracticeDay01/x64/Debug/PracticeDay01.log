@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+D:\CppStudy\PracticeDay01\FileName.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\CppStudy\PracticeDay01\FileName.cpp(6,19): error C2001: 常量中有换行符
+D:\CppStudy\PracticeDay01\FileName.cpp(7,5): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+D:\CppStudy\PracticeDay01\FileName.cpp(7,13): error C2001: 常量中有换行符
+D:\CppStudy\PracticeDay01\FileName.cpp(8,5): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+D:\CppStudy\PracticeDay01\FileName.cpp(8,53): error C3872: ‘U+e57d’: 标识符中不允许使用此字符
+D:\CppStudy\PracticeDay01\FileName.cpp(8,53): error C2146: 语法错误: 缺少“;”(在标识符“浠婃棩涓婚锛”的前面)
+D:\CppStudy\PracticeDay01\FileName.cpp(8,53): error C2065: “浠婃棩涓婚锛”: 未声明的标识符

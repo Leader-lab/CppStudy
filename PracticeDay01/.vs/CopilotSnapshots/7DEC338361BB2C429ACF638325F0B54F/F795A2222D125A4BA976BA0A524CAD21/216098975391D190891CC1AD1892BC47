@@ -1,0 +1,39 @@
+﻿#include <iostream>
+#include <string>
+#include <limits>
+#include <locale>
+
+using namespace std;
+
+int main() {
+    // 初始化变量
+    int a = 10;
+    string name = "C++学习第1天";
+
+    // 设置本地以支持中文输出（可选）
+    try {
+        locale::global(locale(""));
+    } catch (...) {
+        // 如果设置失败则继续使用默认区域
+    }
+
+    cout << "Hello World!" << endl;
+    cout << "初始化变量 a: " << a << " 今日主题: " << name << endl;
+
+    // 读取整数并进行输入验证
+    cout << "请输入一个任意整数：";
+    while (!(cin >> a)) {
+        cout << "输入无效，请输入一个整数：";
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    }
+
+    cout << "你输入的数字是：" << a << endl;
+
+    // 等待用户按回车以防止程序立即退出（在某些环境下有效）
+    cout << "按回车键退出...";
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    cin.get();
+
+    return 0;
+}

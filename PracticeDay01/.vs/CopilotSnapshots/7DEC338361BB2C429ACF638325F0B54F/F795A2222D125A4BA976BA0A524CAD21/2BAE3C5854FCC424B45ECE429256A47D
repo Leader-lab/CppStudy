@@ -1,0 +1,18 @@
+﻿#include <iostream>// 包含string头文件，支持字符串变量
+#include <string>
+using namespace std;
+int main() {
+    int a = 10;// // 定义整型变量，存数字
+    string name = "C++学习第1天";//定义字符串变量，存文字
+    cout << "Hello World！" << endl;// 输出内容，endl表示换行
+    cout << "初始化变量a：" << a << " 今日主题：" << name << endl;
+
+    cout << "请输入一个任意数字：";  // 从控制台输入一个数字，赋值给变量a
+    cin >> a;
+
+    // 输出输入后的变量值，验证输入是否生效
+    cout << "你输入的数字是：" << a << endl;
+
+    // 防止控制台运行后一闪而过，必加
+    return 0;
+}
