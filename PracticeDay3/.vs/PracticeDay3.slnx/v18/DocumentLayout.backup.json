@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CppStudy\\PracticeDay3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9C9061-F26C-481F-8DD5-6AC2531DDCAD}|PracticeDay3.vcxproj|D:\\CppStudy\\PracticeDay3\\PracticeDay0130_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E9C9061-F26C-481F-8DD5-6AC2531DDCAD}|PracticeDay3.vcxproj|solutionrelative:PracticeDay0130_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9C9061-F26C-481F-8DD5-6AC2531DDCAD}|PracticeDay3.vcxproj|D:\\CppStudy\\PracticeDay3\\PracticeDay0130_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E9C9061-F26C-481F-8DD5-6AC2531DDCAD}|PracticeDay3.vcxproj|solutionrelative:PracticeDay0130_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9C9061-F26C-481F-8DD5-6AC2531DDCAD}|PracticeDay3.vcxproj|D:\\CppStudy\\PracticeDay3\\PracticeDay0130_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E9C9061-F26C-481F-8DD5-6AC2531DDCAD}|PracticeDay3.vcxproj|solutionrelative:PracticeDay0130_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticeDay0130_3.cpp",
+              "DocumentMoniker": "D:\\CppStudy\\PracticeDay3\\PracticeDay0130_3.cpp",
+              "RelativeDocumentMoniker": "PracticeDay0130_3.cpp",
+              "ToolTip": "D:\\CppStudy\\PracticeDay3\\PracticeDay0130_3.cpp",
+              "RelativeToolTip": "PracticeDay0130_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T16:17:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeDay0130_2.cpp",
+              "DocumentMoniker": "D:\\CppStudy\\PracticeDay3\\PracticeDay0130_2.cpp",
+              "RelativeDocumentMoniker": "PracticeDay0130_2.cpp",
+              "ToolTip": "D:\\CppStudy\\PracticeDay3\\PracticeDay0130_2.cpp",
+              "RelativeToolTip": "PracticeDay0130_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T12:41:07.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticeDay0130_1.cpp",
+              "DocumentMoniker": "D:\\CppStudy\\PracticeDay3\\PracticeDay0130_1.cpp",
+              "RelativeDocumentMoniker": "PracticeDay0130_1.cpp",
+              "ToolTip": "D:\\CppStudy\\PracticeDay3\\PracticeDay0130_1.cpp",
+              "RelativeToolTip": "PracticeDay0130_1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T12:32:00.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

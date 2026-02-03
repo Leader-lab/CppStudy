@@ -1,5 +1,0 @@
-﻿  Create.cpp
-D:\CppStudy\Test\Create.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-D:\CppStudy\Test\Create.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-D:\CppStudy\Test\Create.cpp(3,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-  Test.vcxproj -> D:\CppStudy\Test\x64\Debug\Test.exe

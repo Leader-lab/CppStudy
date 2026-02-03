@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CppStudy\\PracticeDay5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA3637C5-CF19-4DF4-A59F-EF1E2EB5DF1B}|PracticeDay5.vcxproj|D:\\CppStudy\\PracticeDay5\\PracticeDay0202-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA3637C5-CF19-4DF4-A59F-EF1E2EB5DF1B}|PracticeDay5.vcxproj|solutionrelative:PracticeDay0202-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA3637C5-CF19-4DF4-A59F-EF1E2EB5DF1B}|PracticeDay5.vcxproj|D:\\CppStudy\\PracticeDay5\\PracticeDay0202-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA3637C5-CF19-4DF4-A59F-EF1E2EB5DF1B}|PracticeDay5.vcxproj|solutionrelative:PracticeDay0202-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PracticeDay0202-2.cpp",
+              "DocumentMoniker": "D:\\CppStudy\\PracticeDay5\\PracticeDay0202-2.cpp",
+              "RelativeDocumentMoniker": "PracticeDay0202-2.cpp",
+              "ToolTip": "D:\\CppStudy\\PracticeDay5\\PracticeDay0202-2.cpp*",
+              "RelativeToolTip": "PracticeDay0202-2.cpp*",
+              "ViewState": "AgIAACoAAAAAAAAAAAA3wEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T06:40:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PracticeDay0202-1.cpp",
               "DocumentMoniker": "D:\\CppStudy\\PracticeDay5\\PracticeDay0202-1.cpp",
               "RelativeDocumentMoniker": "PracticeDay0202-1.cpp",
               "ToolTip": "D:\\CppStudy\\PracticeDay5\\PracticeDay0202-1.cpp",
               "RelativeToolTip": "PracticeDay0202-1.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-02T05:42:35.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T05:42:35.785Z"
             }
           ]
         }
